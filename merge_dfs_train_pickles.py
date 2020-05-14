@@ -1,7 +1,6 @@
 import os
 import pandas as pd
 
-
 annots=[]
 frame_infos=[]
 video_infos=[]

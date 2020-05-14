@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 14 00:43:30 2020
-
-@author: aysenur
-"""
-
-
 #download snappy whl file with your python version: https://www.lfd.uci.edu/~gohlke/pythonlibs/#python-snappy
 #pip install python_snappy-0.5-cp37-cp37m-win_amd64.whl
 #pip install pyarrow fastparquet

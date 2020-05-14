@@ -472,7 +472,7 @@ for subject in subjects:
             file_path = directory+'/'+subject+'/'+video_name
             print(file_path)
             frame_info_df, video_info_dict = process_video(file_path, subject=subject, external_factors=external_factors,facial_actions=facial_actions, \
-                                                            ear_th=EAR_THRESHOLD, consec_th=EAR_CONSEC_FRAMES, skip_n=SKIP_FIRST_FRAMES)
+                                                           ear_th=EAR_THRESHOLD, consec_th=EAR_CONSEC_FRAMES, skip_n=SKIP_FIRST_FRAMES)
             frame_info_df.to_pickle('./test/{}_{}_{}_frame_info_df.pkl'.format(subject,external_factors,facial_actions))
             video_info_dict.to_pickle('./test/{}_{}_{}_video_info_df.pkl'.format(subject,external_factors,facial_actions))
             

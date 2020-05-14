@@ -37,8 +37,7 @@ for file in annots:
                 frame_info_df.loc[:,'drowsiness']=drowsiness_series
                 frame_info_df.to_pickle('./train/'+first_part+'_merged_df.pkl')
                 
-#deneme = pd.read_pickle('./train/'+'015_glasses_sleepyCombination_merged_df.pkl')
-                
+#deneme = pd.read_pickle('./train/'+'015_glasses_sleepyCombination_merged_df.pkl')    
 # deneme1 = pd.read_pickle('./train/'+'015_glasses_nonsleepyCombination_frame_info_df.pkl')
 # deneme2 = pd.read_pickle('./train/'+'015_glasses_nonsleepyCombination_annotations.pkl')     
 

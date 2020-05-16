@@ -65,7 +65,6 @@ for i in range(len(list_of_all_first_90)):
 df_merged = pd.concat(lastest_df_list)
 lastList = []
 
-
 for col in df_merged.columns:
     df_original2[col] = ""
     columns_orderly = df_merged[col]

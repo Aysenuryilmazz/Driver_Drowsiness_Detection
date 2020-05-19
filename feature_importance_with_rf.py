@@ -75,7 +75,6 @@ y_pred = grid.predict(X_test)
 results, false = display_test_scores_v2(y_test, y_pred)
 print(results)
 
-
 """Show feature importance"""
 
 # pie-chart 

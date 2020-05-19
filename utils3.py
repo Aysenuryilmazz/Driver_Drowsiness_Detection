@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 19 18:01:26 2020
-
-@author: aysenur
-"""
-
-
 # utility functions
 # based on "eye_blink_detection_3_ml_model_part1" and "eye_blink_detection_3_ml_model_part2"
 

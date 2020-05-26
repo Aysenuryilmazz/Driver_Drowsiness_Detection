@@ -98,7 +98,6 @@ y_pred = grid.predict(X_test)
 results, false = display_test_scores(y_test, y_pred)
 print(results)
 
-
 ################ NAIVE-BAYES ###################
 # parameters 
 parameters = {}

@@ -30,11 +30,11 @@ Using Image Processing and both classical and brand-new Machine Learning techniq
 
 ### Frame Based Models Classification Results:
 
-<img src="https://github.com/Aysenuryilmazz/Driver_Drowsiness_Detection/blob/hakkoz/images/framebasedresults.jpeg" height="500" />  
+<img src="https://github.com/Aysenuryilmazz/Driver_Drowsiness_Detection/blob/hakkoz/images/framebasedresults.jpeg" height="400" />  
 
 ### Sequential Models Regression Results:
 
-<img src="https://github.com/Aysenuryilmazz/Driver_Drowsiness_Detection/blob/hakkoz/images/sequentialresults.png" height="150" />
+<img src="https://github.com/Aysenuryilmazz/Driver_Drowsiness_Detection/blob/hakkoz/images/sequentialresults.png" height="250" />
 
 ### Technologies we Used:
 
@@ -43,18 +43,18 @@ Using Image Processing and both classical and brand-new Machine Learning techniq
 # Online links of notebooks and input/output files:
 
 1.construct-df  
-2.feature importances  
-  - [feature-importances-wrf.ipynb](https://www.kaggle.com/hakkoz/feature-importances-wrf?scriptVersionId=34271902)  
+2.feature importances
+  [feature-importances-wrf.ipynb](https://www.kaggle.com/hakkoz/feature-importances-wrf?scriptVersionId=34271902)  
 3.normalization  
-  - [final_step2_scaled.pkl](https://drive.google.com/file/d/1C2LJzimJQrjW0x_dymkIGsxlxycL1Wxe/view?usp=sharing)  
+  [final_step2_scaled.pkl](https://drive.google.com/file/d/1C2LJzimJQrjW0x_dymkIGsxlxycL1Wxe/view?usp=sharing)  
 4.ML classification  
 5.Process RLDD  
-  - [merged_normalized_scaled.pkl](https://drive.google.com/file/d/1kuchEW2wRLup1veVM8M01ilE5R9LbjTC/view?usp=sharing)  
-  - [rldd_normalized_scaled.pkl](https://drive.google.com/file/d/11H8Duy34HDfgpTX6RuGhD86eBVbv4wAq/view?usp=sharing)  
+  [merged_normalized_scaled.pkl](https://drive.google.com/file/d/1kuchEW2wRLup1veVM8M01ilE5R9LbjTC/view?usp=sharing)  
+  [rldd_normalized_scaled.pkl](https://drive.google.com/file/d/11H8Duy34HDfgpTX6RuGhD86eBVbv4wAq/view?usp=sharing)  
 6.experiments  
   frame-based models:  
-   - [adaboost_RLDD.ipynb](https://www.kaggle.com/aysenur95/ddd-1-adaboost?scriptVersionId=50447882)
-   - [adaboost_MERGED.ipynb](https://www.kaggle.com/ayenurylmaz/ddd-1-merged-adaboost?scriptVersionId=50448464)
+   [adaboost_RLDD.ipynb](https://www.kaggle.com/aysenur95/ddd-1-adaboost?scriptVersionId=50447882)  
+   [adaboost_MERGED.ipynb](https://www.kaggle.com/ayenurylmaz/ddd-1-merged-adaboost?scriptVersionId=50448464)  
    - [bagging_MERGED.ipynb](https://www.kaggle.com/mahmutaktas/bagging?scriptVersionId=50660571)
    - [bagging_RLDD.ipynb](https://www.kaggle.com/mahmutaktas/bagging?scriptVersionId=50663317)
    - [cat_MERGED.ipynb](https://www.kaggle.com/areukolateamleader/ddd-cat-merged?scriptVersionId=54162298)

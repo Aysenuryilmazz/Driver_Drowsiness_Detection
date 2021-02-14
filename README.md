@@ -117,11 +117,14 @@ Using Image Processing and both classical and brand-new Machine Learning techniq
 8.alternatives
 >I3D
 >>- [i3D.ipynb](https://www.kaggle.com/hakkoz/i3d-mustafa?scriptVersionId=49546861)
+
 >blink detection
 >>- [eye-blink-detection-1-simple-model.ipynb](https://www.kaggle.com/hakkoz/eye-blink-detection-1-simple-model)
 >>- [eye-blink-detection-2-adaptive-model.ipynb](https://www.kaggle.com/hakkoz/eye-blink-detection-2-adaptive-model-v2)
 >>- [eye-blink-detection-3-ml-model-part1.ipynb](https://www.kaggle.com/hakkoz/eye-blink-detection-3-ml-model-part1)
 >>- [eye-blink-detection-3-ml-model-part2.ipynb](https://www.kaggle.com/hakkoz/eye-blink-detection-3-ml-model-part2)
 >>- [eye-blink-detection-4-comparison.ipynb](https://www.kaggle.com/hakkoz/eye-blink-detection-4-comparison)
-documents  
+
+documents
+  
 input  

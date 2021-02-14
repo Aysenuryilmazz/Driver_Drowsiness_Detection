@@ -45,6 +45,7 @@ Using Image Processing and both classical and brand-new Machine Learning techniq
 1.construct-df  
 2.feature importances
 >- [feature-importances-wrf.ipynb](https://www.kaggle.com/hakkoz/feature-importances-wrf?scriptVersionId=34271902)
+
 3.normalization  
 >- [final_step2_scaled.pkl](https://drive.google.com/file/d/1C2LJzimJQrjW0x_dymkIGsxlxycL1Wxe/view?usp=sharing)  
 4.ML classification  

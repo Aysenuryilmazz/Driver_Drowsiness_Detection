@@ -97,7 +97,7 @@ Using Image Processing and both classical and brand-new Machine Learning techniq
 >>- [lstm-vanilla_NTHU_classification.ipynb](https://www.kaggle.com/mahmutaktas/ddd-lstm-vanilla?scriptVersionId=52379983)
 >>- [lstm-vanilla_NTHU_regression.ipynb](https://www.kaggle.com/mahmutaktas/ddd-lstm-vanilla?scriptVersionId=52176732)
 >>- [lstm-stacked_NTHU_classification.ipynb](https://www.kaggle.com/hakkoz/ddd-lstm-stacked-v2?scriptVersionId=54162148)
->>- [lstm-stacked_NTHU_regression.ipynb]()
+>>- [lstm-stacked_NTHU_regression.ipynb](https://www.kaggle.com/hakkoz/ddd-lstm-stacked?scriptVersionId=54227714)
 >>- [bi-lstm_NTHU_classification.ipynb](https://www.kaggle.com/ayenurylmaz/new-bi-lstm?scriptVersionId=52379921)
 >>- [bi-lstm_NTHU_regression.ipynb](https://www.kaggle.com/ayenurylmaz/new-bi-lstm?scriptVersionId=52379921)
 >>- [cnn-lstm_NTHU_regression.ipynb]()

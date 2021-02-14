@@ -43,18 +43,18 @@ Using Image Processing and both classical and brand-new Machine Learning techniq
 # Online links of notebooks and input/output files:
 
 1.construct-df  
-2.feature importances  
-   - [feature-importances-wrf.ipynb](https://www.kaggle.com/hakkoz/feature-importances-wrf?scriptVersionId=34271902)  
+2.feature importances
+   - [feature-importances-wrf.ipynb](https://www.kaggle.com/hakkoz/feature-importances-wrf?scriptVersionId=34271902)
 3.normalization  
-   - [final_step2_scaled.pkl](https://drive.google.com/file/d/1C2LJzimJQrjW0x_dymkIGsxlxycL1Wxe/view?usp=sharing)  
+   - [final_step2_scaled.pkl](https://drive.google.com/file/d/1C2LJzimJQrjW0x_dymkIGsxlxycL1Wxe/view?usp=sharing)
 4.ML classification  
 5.Process RLDD  
-   - [merged_normalized_scaled.pkl](https://drive.google.com/file/d/1kuchEW2wRLup1veVM8M01ilE5R9LbjTC/view?usp=sharing)  
-   - [rldd_normalized_scaled.pkl](https://drive.google.com/file/d/11H8Duy34HDfgpTX6RuGhD86eBVbv4wAq/view?usp=sharing)  
+   - [merged_normalized_scaled.pkl](https://drive.google.com/file/d/1kuchEW2wRLup1veVM8M01ilE5R9LbjTC/view?usp=sharing)
+   - [rldd_normalized_scaled.pkl](https://drive.google.com/file/d/11H8Duy34HDfgpTX6RuGhD86eBVbv4wAq/view?usp=sharing)
 6.experiments  
    frame-based models:  
-    - [adaboost_RLDD.ipynb](https://www.kaggle.com/aysenur95/ddd-1-adaboost?scriptVersionId=50447882)  
-    - [adaboost_MERGED.ipynb](https://www.kaggle.com/ayenurylmaz/ddd-1-merged-adaboost?scriptVersionId=50448464)  
+    - [adaboost_RLDD.ipynb](https://www.kaggle.com/aysenur95/ddd-1-adaboost?scriptVersionId=50447882)
+    - [adaboost_MERGED.ipynb](https://www.kaggle.com/ayenurylmaz/ddd-1-merged-adaboost?scriptVersionId=50448464)
     - [bagging_MERGED.ipynb](https://www.kaggle.com/mahmutaktas/bagging?scriptVersionId=50660571)
     - [bagging_RLDD.ipynb](https://www.kaggle.com/mahmutaktas/bagging?scriptVersionId=50663317)
     - [cat_MERGED.ipynb](https://www.kaggle.com/areukolateamleader/ddd-cat-merged?scriptVersionId=54162298)
@@ -84,8 +84,8 @@ Using Image Processing and both classical and brand-new Machine Learning techniq
     - [svm_NTHU.ipynb](https://www.kaggle.com/hakkoz/ddd-svm?scriptVersionId=46708013)
     - [svm_RLDD.ipynb](https://www.kaggle.com/areukolateamleader/ddd-svm-rldd?scriptVersionId=50777434)
     - [xgboost_RLDD.ipynb](https://www.kaggle.com/aysenur95/ddd-2-xgboost?scriptVersionId=50448417)
-    - [xgboost_MERGED.ipynb](https://www.kaggle.com/ayenurylmaz/ddd-2-merged-xgboost?scriptVersionId=50461390)
-   sequential models: 
+    - [xgboost_MERGED.ipynb](https://www.kaggle.com/ayenurylmaz/ddd-2-merged-xgboost?scriptVersionId=50461390)  
+   sequential models:
     - [data-preparation_NTHU.ipynb](https://www.kaggle.com/hakkoz/ddd-data-preparation-nthu?scriptVersionId=51800323)
     - [data-preparation_RLDD.ipynb](https://www.kaggle.com/hakkoz/ddd-data-preparation-rldd?scriptVersionId=54229330)
     - [lstm-vanilla_NTHU_classification.ipynb](https://www.kaggle.com/mahmutaktas/ddd-lstm-vanilla?scriptVersionId=52379983)
@@ -115,5 +115,5 @@ Using Image Processing and both classical and brand-new Machine Learning techniq
     - [eye-blink-detection-3-ml-model-part1.ipynb](https://www.kaggle.com/hakkoz/eye-blink-detection-3-ml-model-part1)
     - [eye-blink-detection-3-ml-model-part2.ipynb](https://www.kaggle.com/hakkoz/eye-blink-detection-3-ml-model-part2)
     - [eye-blink-detection-4-comparison.ipynb](https://www.kaggle.com/hakkoz/eye-blink-detection-4-comparison)
-documents
-input
+documents  
+input  

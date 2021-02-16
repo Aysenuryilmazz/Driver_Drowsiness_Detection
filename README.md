@@ -32,15 +32,15 @@ Using Image Processing and both classical and brand-new Machine Learning techniq
 
 <img src="https://github.com/Aysenuryilmazz/Driver_Drowsiness_Detection/blob/hakkoz/images/framebasedresults.jpeg" height="300" />  
 
-### Sequential Models Regression Results:
+### Sequential Models Regression and Classification Results:
 
 <img src="https://github.com/Aysenuryilmazz/Driver_Drowsiness_Detection/blob/hakkoz/images/sequentialresults.png" height="200" />
 
-### Technologies we Used:
+### Technologies that We Used:
 
 <img src="https://github.com/Aysenuryilmazz/Driver_Drowsiness_Detection/blob/hakkoz/images/technologies.png" height="150" />
 
-# Online links of notebooks and input/output files:
+### Online links of notebooks and input/output files:
 
 1.construct-df
 
@@ -99,11 +99,11 @@ Using Image Processing and both classical and brand-new Machine Learning techniq
 >>- [lstm-stacked_NTHU_classification.ipynb](https://www.kaggle.com/hakkoz/ddd-lstm-stacked-v2?scriptVersionId=54162148)
 >>- [lstm-stacked_NTHU_regression.ipynb](https://www.kaggle.com/hakkoz/ddd-lstm-stacked?scriptVersionId=54227714)
 >>- [bi-lstm_NTHU_classification.ipynb](https://www.kaggle.com/ayenurylmaz/new-bi-lstm?scriptVersionId=52379921)
->>- [bi-lstm_NTHU_regression.ipynb](https://www.kaggle.com/ayenurylmaz/new-bi-lstm?scriptVersionId=52379921)
->>- [cnn-lstm_NTHU_regression.ipynb]()
->>- [cnn-lstm_NTHU_classification.ipynb]()
->>- [conv-lstm_NTHU_regression.ipynb]()
->>- [conv-lstm_NTHU_classification.ipynb]()
+>>- [bi-lstm_NTHU_regression.ipynb](https://www.kaggle.com/ayenurylmaz/bidirectional-lstm?scriptVersionId=52178775)
+>>- [cnn-lstm_NTHU_regression.ipynb](https://www.kaggle.com/areukolateamleader/ddd-lstm-cnn?scriptVersionId=54314304)
+>>- [cnn-lstm_NTHU_classification.ipynb](https://www.kaggle.com/areukolateamleader/ddd-lstm-cnn-v2?scriptVersionId=54319854)
+>>- [conv-lstm_NTHU_regression.ipynb](https://www.kaggle.com/hakkoz/ddd-lstm-conv?scriptVersionId=54306451)
+>>- [conv-lstm_NTHU_classification.ipynb](https://www.kaggle.com/hakkoz/ddd-lstm-conv-v2)
 
 7.demo app
 >backend

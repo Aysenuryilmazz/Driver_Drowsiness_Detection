@@ -1,0 +1,2 @@
+-filterbank oluþturmak için filterbank_for_face kullanýn
+-single_filter ile filtre deneyebilirsiniz

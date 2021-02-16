@@ -1,0 +1,105 @@
+.app{
+  display: flex;
+  flex-direction: column;
+
+  background: rgb(189, 199, 210);
+  background: linear-gradient(
+    24deg,
+    rgba(189, 199, 210, 1) 0%,
+    rgba(119, 175, 245, 0.7010154403558299) 47%,
+    rgba(189, 198, 210, 1) 100%
+  );
+  height: 100vh;
+
+}
+
+.status{
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+.drowsiness-text{
+  font-weight: 900;
+  font-size: 3rem;
+  color: rgb(236, 78, 78)
+}
+.awake-text{
+  font-weight: 900;
+  font-size: 3rem;
+  color: rgb(67, 235, 67)
+}
+.main-row {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.video-frame{
+  border-radius: 1rem;
+}
+.info {
+
+}
+.main {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.info-table{
+    background-color: #0f3057;
+    border-radius: 3%;
+}
+.info-table thead tr th{
+  font-size: 2rem;
+  font-weight: 700;
+  color: rgb(233, 233, 73);
+}
+.table-body{
+    border-radius: 3%;
+}
+.table-body tr{
+    font-family: 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 900;
+    
+}
+.table-body tr:nth-child(odd){
+    background-color: #00587a;
+}
+.table-body tr:hover td{
+    color: yellow
+}
+.info-table td{
+    margin-right: 5rem;
+    
+}
+.tables{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.info-table thead tr:first-child  th:first-child
+{
+    border-top-left-radius: 15px;
+}
+
+.info-table thead tr:first-child  th:last-child
+{
+    border-top-right-radius: 15px;
+}
+
+.info-table tbody tr:last-child td:first-child
+{
+    border-bottom-left-radius: 15px;
+
+}
+
+.info-table tbody tr:last-child td:last-child
+{
+    border-bottom-right-radius: 15px;
+
+    
+}

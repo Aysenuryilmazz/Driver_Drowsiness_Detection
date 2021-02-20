@@ -1,0 +1,19 @@
+{
+  "name": "ddd-app-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "mdbreact": "^5.0.1",
+    "next": "10.0.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "reactstrap": "^8.8.0",
+    "socket.io-client": "^3.0.4"
+  }
+}

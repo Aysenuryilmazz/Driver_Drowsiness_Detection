@@ -124,7 +124,3 @@ Using Image Processing and both classical and brand-new Machine Learning techniq
 >>- [eye-blink-detection-3-ml-model-part1.ipynb](https://www.kaggle.com/hakkoz/eye-blink-detection-3-ml-model-part1)
 >>- [eye-blink-detection-3-ml-model-part2.ipynb](https://www.kaggle.com/hakkoz/eye-blink-detection-3-ml-model-part2)
 >>- [eye-blink-detection-4-comparison.ipynb](https://www.kaggle.com/hakkoz/eye-blink-detection-4-comparison)
-
-documents
-  
-input  

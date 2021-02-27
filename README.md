@@ -1,4 +1,4 @@
-## Marmara University - Computer Engineering Term Project
+## Marmara University - Computer Engineering Graduation Project
 
 Developed by 
 
